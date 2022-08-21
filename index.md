@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Home Workout: Challenges
 
-You can use the [editor on GitHub](https://github.com/asheovadash89/Home-Workout-Challenges/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Icon-App-83 5x83 5@2x](https://user-images.githubusercontent.com/111689459/185808541-9a1de4cd-571c-4fd3-9e55-11e212f44849.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you want an irresistible body? You just need to complete a 30 days home workout challenge. Easy to use, daily reports, fixed results and much more in one app.
 
-### Markdown
+ - 30 days daily workout.
+ - Photo guide for workout.
+ - Daily new workout with easy tutorials .
+ - Start or Pause workout anytime.
+ - Helpful exercise for mens and women’s.
+ - Report of at the end of your workout.
+ - Share workout detail to social media.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CONTACT US
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asheovadash89/Home-Workout-Challenges/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Are you having difficulties with Home Workout: Challenges? Want to give us feedback on features you’d like us to add? Please contact our support team: [asheovadash89@icloud.com](mailto:asheovadash89@icloud.com).
